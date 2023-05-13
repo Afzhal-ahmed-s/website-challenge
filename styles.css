@@ -1102,12 +1102,6 @@ a:hover {
     padding: 0px !important;
 }
 
-#headerDelay{
-    /* animation: cssAnimation 0s 5s forwards;
-    visibility: hidden; */
-    opacity: 0.9 !important;
-}
-
 a:hover{
     color: #b0f3f1 !important;
 }
